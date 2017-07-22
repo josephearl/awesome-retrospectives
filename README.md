@@ -4,15 +4,15 @@ A curated list of resources for running awesome retrospectives. Work in progress
 
 ## Contents
 
-* [What is a Retrospective?](#what-is-a-retrospective?)
+* [The Basics](#retrospectives)
 * [Activities & Planning](#activities-&-planning)
 * [Distributed Retrospective Tools](#distributed-retrospective-tools)
 
-## What is a Retrospective?
+## The Basics
 
 For when you want to learn more about the basics of retrospectives.
 
-* [http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/] - An introduction to retrospectives.
+* [http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/](What is a Retrospective?) - An introduction to retrospectives.
 
 ## Activities & Planning
 
