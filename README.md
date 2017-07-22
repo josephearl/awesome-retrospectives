@@ -5,7 +5,7 @@ A curated list of resources for facilitating awesome retrospectives.
 ## Contents
 
 * [The Basics](#the-basics)
-* [Activities & Planning](#activities-&-planning)
+* [Retrospective Activities](#retrospective-activities)
 * [Distributed Retrospective Tools](#distributed-retrospective-tools)
 * [Books](#books)
 * [Articles](#articles)
@@ -17,9 +17,9 @@ For when you want to learn more about the basics of retrospectives:
 * [What is a Retrospective?](http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/) - An introduction to retrospectives.
 * [The Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html) - The key to running successful retrospectives.
 
-## Activities & Planning
+## Retrospective Activities
 
-For when you need ideas for retrospective activities or structuring a retrospective:
+For when you need ideas for retrospective activities:
 
 * [Retromat](https://plans-for-retrospectives.com/en/) - Activities and a planning tool which can be used to share your plan with others.
 * [Fun Retrospectives](http://www.funretrospectives.com) - Activities and ideas for retrospectives.
