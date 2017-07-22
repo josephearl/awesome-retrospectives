@@ -13,7 +13,7 @@ A curated list of resources for running awesome retrospectives. Work in progress
 For when you want to learn more about the basics of retrospectives.
 
 * [What is a Retrospective?](http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/) - An introduction to retrospectives.
-* [Agile Retrospectives: Making Good Teams Great by Esther Derby and Diana Larsen](https://pragprog.com/book/dlret/agile-retrospectives) - A book on running agile retrospectives.
+* [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - A book on running agile retrospectives.
 
 ## Activities & Planning
 
