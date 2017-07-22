@@ -29,6 +29,7 @@ For when you need ideas for retrospective activities or structuring a retrospect
 
 * [Retromat](https://plans-for-retrospectives.com/en/) - Activities and a planning tool which can be used to share your plan with others.
 * [Fun Retrospectives](http://www.funretrospectives.com) - Activities and ideas for retrospectives.
+* [Squad Health Check Model](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams.
 
 ## Distributed Retrospective Tools
 
