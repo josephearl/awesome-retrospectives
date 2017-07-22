@@ -20,8 +20,8 @@ For when you want to learn more about the basics of retrospectives:
 
 For when you want to learn more in-depth information about retrospectives:
 
-* [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - A book on running agile retrospectives.
-* [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) - One of the earliest books on running retrospectives.
+* [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) by Esther Derby and Diana Larsen - A book on running agile retrospectives.
+* [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) by Norman Kerth - One of the earliest books on running retrospectives.
 
 ## Activities & Planning
 
