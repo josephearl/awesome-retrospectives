@@ -1,4 +1,4 @@
-## CC0 1.0 Universal Public Domain Dedication
+# CC0 1.0 Universal Public Domain Dedication
 
 This is a human-readable summary of the [Legal Code (read the full text)](https://creativecommons.org/publicdomain/zero/1.0/legalcode).
 
