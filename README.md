@@ -42,6 +42,7 @@ For when you want to learn more in-depth information about retrospectives:
 
 * [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - A book on running retrospectives.
 * [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) - One of the earliest books on running retrospectives.
+* [Agile Retrospectives](https://leanpub.com/b/agileretrospectives) - A collection of 6 ebooks on retrospectives from Leanpub.
 
 ## Articles
 
