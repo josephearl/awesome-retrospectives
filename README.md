@@ -7,8 +7,8 @@ A curated list of resources for facilitating awesome retrospectives.
 * [Retrospective Basics](#retrospective-basics)
 * [Retrospective Plans & Activities](#retrospective-plans--activities)
 * [Distributed Retrospective Tools](#distributed-retrospective-tools)
-* [Books](#books)
-* [Articles](#articles)
+* [Books About Retrospectives](#books-about-retrospectives)
+* [Articles About Retrospectives](#articles-about-retrospectives)
 
 ## Retrospective Basics
 
@@ -38,7 +38,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Ideaboardz](http://www.ideaboardz.com) - Distributed retrospective board with voting and export functionality.
 * [Retrium](https://www.retrium.com) - Commercial distributed retrospective tools with a number of retrospective activities.
 
-## Books
+## Books About Retrospectives
 
 For when you want to learn more in-depth information about retrospectives:
 
@@ -46,7 +46,7 @@ For when you want to learn more in-depth information about retrospectives:
 * [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) - *Norman L. Kerth.* One of the earliest books on running retrospectives.
 * [Agile Retrospectives](https://leanpub.com/b/agileretrospectives) - *Various authors.* A bundle of 6 ebooks on retrospectives from Leanpub including Getting Value out of Agile Retrospectives, Fun Retrospectives, Fifty Quick Ideas To Improve Your Retrospectives, The Retrospective Handbook, Agile Retrospective Kickstarter and Retrospectives for Organizational Change.
 
-## Articles
+## Articles About Retrospectives
 
 For when you want information on specific issues or tips for improving your retrospectives:
 
