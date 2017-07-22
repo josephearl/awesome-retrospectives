@@ -53,3 +53,4 @@ For when you want information on specific issues or tips for improving your retr
 * [Inside Atlassian: Seven Steps for Better Retrospectives](https://www.atlassian.com/blog/agile/retrospectives-atlassian) - Tips for structuring and facilitating retrospectives from Atlassian.
 * [5 Steps to Better Agile Retrospectives](https://blog.trello.com/the-5-steps-to-better-team-retrospectives) - Advice on structuring retrospectives from Trello.
 * [Retrospective Fatigue? How to Increase Follow-Through on Action Items](http://finding-marbles.com/2012/04/25/retrospective-fatigue-how-to-increase-follow-through-action-items/) - Advice on getting teams to complete retrospective commitments.
+* [The Infinite Hows](https://www.oreilly.com/ideas/the-infinite-hows) - A critique of the Five Whys technique and an alternate approach for better root cause analysis retrospectives.
