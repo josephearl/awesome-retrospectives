@@ -23,8 +23,10 @@ For when you need ideas for retrospective activities or structuring a retrospect
 
 * [Retromat](https://plans-for-retrospectives.com/en/) - Activities and a planning tool which can be used to share your plan with others.
 * [Fun Retrospectives](http://www.funretrospectives.com) - Activities and ideas for retrospectives.
-* [Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams.
 * [loveagile.com](http://loveagile.com) - A small collection of retrospective activities.
+* [Safety Check](http://www.akashb.com/blog/2012/05/28/agile-retrospectives-the-safety-check/) - An activity for measuring how comfortable everyone feels sharing their views, useful for forming teams or when new team members join.
+* [Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams.
+* [The Happiness Door](https://www.happymelly.com/the-happiness-door-bring-your-own-bottle/) - An activity for measuring happiness and collecting feedback. 
 
 ## Distributed Retrospective Tools
 
@@ -46,3 +48,4 @@ For when you want to learn more in-depth information about retrospectives:
 For when you want information on specific issues or tips for improving your retrospectives:
 
 * [Inside Atlassian: seven steps for better retrospectives](https://www.atlassian.com/blog/agile/retrospectives-atlassian) - Tips for structuring and facilitating retrospectives.
+* [Retrospective fatigue? How to increase follow-through on action items](http://finding-marbles.com/2012/04/25/retrospective-fatigue-how-to-increase-follow-through-action-items/) - How to make sure 
