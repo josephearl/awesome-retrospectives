@@ -12,17 +12,17 @@ A curated list of resources for running awesome retrospectives. Work in progress
 
 For when you want to learn more about the basics of retrospectives.
 
-* [http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/](What is a Retrospective?) - An introduction to retrospectives.
+* [What is a Retrospective?](http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/) - An introduction to retrospectives.
 
 ## Activities & Planning
 
 For when you need ideas for retrospective activities or structuring a retrospective.
 
-* [https://plans-for-retrospectives.com/en/](Retromat) - Activities and a planning tool which can be used to share your plan with others.
-* [http://www.funretrospectives.com](Fun Retrospectives) - Activities and ideas for retrospectives.
+* [Retromat](https://plans-for-retrospectives.com/en/) - Activities and a planning tool which can be used to share your plan with others.
+* [Fun Retrospectives](http://www.funretrospectives.com) - Activities and ideas for retrospectives.
 
 ## Distributed Retrospective Tools
 
 For when you need to run a retrospective with a distributed team over the internet.
 
-* [http://funretro.github.io/distributed/](Fun Retro) - Distributed retrospective board with virtual stickies.
+* [Fun Retro](http://funretro.github.io/distributed/) - Distributed retrospective board with virtual stickies.
