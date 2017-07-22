@@ -4,7 +4,7 @@ A curated list of resources for running awesome retrospectives. Work in progress
 
 ## Contents
 
-* [The Basics](#retrospectives)
+* [The Basics](#the-basics)
 * [Activities & Planning](#activities-&-planning)
 * [Distributed Retrospective Tools](#distributed-retrospective-tools)
 
