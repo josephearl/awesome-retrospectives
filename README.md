@@ -13,7 +13,9 @@ A curated list of resources for running awesome retrospectives.
 For when you want to learn more about the basics of retrospectives.
 
 * [What is a Retrospective?](http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/) - An introduction to retrospectives.
+* [The Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html) - The key to running successful retrospectives.
 * [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - A book on running agile retrospectives.
+* [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) - One of the earliest books on running retrospectives.
 
 ## Activities & Planning
 
