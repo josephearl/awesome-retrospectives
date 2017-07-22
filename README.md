@@ -47,6 +47,6 @@ For when you want to learn more in-depth information about retrospectives:
 
 For when you want information on specific issues or tips for improving your retrospectives:
 
-* [Inside Atlassian: Seven Steps for Better Retrospectives](https://www.atlassian.com/blog/agile/retrospectives-atlassian) - Tips for structuring and facilitating retrospectives.
-* [5 Steps To Better Agile Retrospectives](https://blog.trello.com/the-5-steps-to-better-team-retrospectives) - Advice on structuring retrospectives.
+* [Seven Steps for Better Retrospectives](https://www.atlassian.com/blog/agile/retrospectives-atlassian) - Tips for structuring and facilitating retrospectives from Atlassian.
+* [5 Steps to Better Agile Retrospectives](https://blog.trello.com/the-5-steps-to-better-team-retrospectives) - Advice on structuring retrospectives from Trello.
 * [Retrospective Fatigue? How to Increase Follow-Through on Action Items](http://finding-marbles.com/2012/04/25/retrospective-fatigue-how-to-increase-follow-through-action-items/) - Advice on getting teams to complete retrospective commitments.
