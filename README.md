@@ -21,9 +21,10 @@ For when you want to learn more about the basics of retrospectives:
 
 For when you need ideas for retrospective activities:
 
-* [Retromat](https://plans-for-retrospectives.com/en/) - Activities and a planning tool which can be used to share your plan with others.
-* [Fun Retrospectives](http://www.funretrospectives.com) - Activities and ideas for retrospectives.
+* [Retromat](https://plans-for-retrospectives.com/en/) - A large collection of activities and a planning tool which can be used to share your plan with others.
+* [Fun Retrospectives](http://www.funretrospectives.com) - A large collection of activities and ideas for retrospectives.
 * [loveagile.com](http://loveagile.com) - A small collection of retrospective activities.
+* [](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) - A collection of retrospective activities and their use cases.
 * [Safety Check](http://www.akashb.com/blog/2012/05/28/agile-retrospectives-the-safety-check/) - An activity for measuring how comfortable everyone feels sharing their views, useful for forming teams or when new team members join.
 * [Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams.
 * [The Happiness Door](https://www.happymelly.com/the-happiness-door-bring-your-own-bottle/) - An activity for measuring happiness.
