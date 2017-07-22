@@ -5,7 +5,7 @@ A curated list of resources for facilitating awesome retrospectives.
 ## Contents
 
 * [The Basics](#the-basics)
-* [Retrospective Plans & Activities](#retrospective-plans-&-activities)
+* [Retrospective Plans & Activities](#retrospective-plans--activities)
 * [Distributed Retrospective Tools](#distributed-retrospective-tools)
 * [Books](#books)
 * [Articles](#articles)
