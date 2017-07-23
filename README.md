@@ -29,6 +29,7 @@ For when you need ideas for retrospective activities:
 * [Safety Check](http://www.akashb.com/blog/2012/05/28/agile-retrospectives-the-safety-check/) - An activity for measuring how comfortable everyone feels sharing their views, useful for forming teams or when new team members join.
 * [Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams from Spotify.
 * [The Happiness Door](https://www.happymelly.com/the-happiness-door-bring-your-own-bottle/) - An activity for measuring happiness.
+* [Kudo Box](https://management30.com/practice/kudo-box/) - A practice for continuously sharing feedback and building intrinsic motivation.
 
 ## Distributed Retrospective Tools
 
@@ -43,6 +44,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Google Drawings](https://drawings.google.com/) - Collaborative drawing.
 * [Retrium](https://www.retrium.com) - Commercial distributed retrospective tools with a number of retrospective activities.
 * [Confluence](https://confluence.atlassian.com/doc/retrospective-blueprint-427623496.html) - Commercial content collaboration software with retrospective templates.
+* [Kudobox](http://kudobox.co) - Share Kudo cards on Twitter.
 
 ## Books About Retrospectives
 
