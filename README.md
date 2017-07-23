@@ -36,6 +36,7 @@ For when you need to run a retrospective with a distributed team over the intern
 
 * [Fun Retro](http://funretro.github.io/distributed/) - Distributed retrospective board with voting.
 * [Ideaboardz](http://www.ideaboardz.com) - Distributed retrospective board with voting and export functionality.
+* [Retrobot](http://www.retrobotapp.com) - Distributed retrospective board with a number of retrospective templates. 
 * [Retrium](https://www.retrium.com) - Commercial distributed retrospective tools with a number of retrospective activities.
 * [Confluence Retrospective Blueprints](https://confluence.atlassian.com/doc/retrospective-blueprint-427623496.html) - Commercial content collaboration software with retrospective templates.
 
