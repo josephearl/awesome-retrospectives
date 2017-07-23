@@ -30,6 +30,7 @@ For when you need ideas for retrospective activities:
 * [Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams from Spotify.
 * [The Happiness Door](https://www.happymelly.com/the-happiness-door-bring-your-own-bottle/) - An activity for measuring happiness.
 * [Kudo Cards](https://management30.com/practice/kudo-box/) - A practice for continuously sharing feedback and building intrinsic motivation.
+* [Gamestorming](http://gamestorming.com) - A collection of games and tools.
 
 ## Distributed Retrospective Tools
 
@@ -53,6 +54,7 @@ For when you want to learn more in-depth information about retrospectives:
 * [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - *Esther Derby and Diana Larsen.* A book on using retrospectives to improve teams.
 * [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) - *Norman L. Kerth.* One of the earliest books on running retrospectives.
 * [Agile Retrospectives](https://leanpub.com/b/agileretrospectives) - *Various authors.* A bundle of 6 ebooks on retrospectives from Leanpub including Getting Value out of Agile Retrospectives, Fun Retrospectives, Fifty Quick Ideas To Improve Your Retrospectives, The Retrospective Handbook, Agile Retrospective Kickstarter and Retrospectives for Organizational Change.
+* [Gamestorming: A Playbook for Innovators, Rulebreakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) - *Dave Gray*. Learn how to create an engaging and creative environment with gamestorming.
 
 ## Articles About Retrospectives
 
