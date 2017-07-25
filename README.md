@@ -55,10 +55,9 @@ For when you want to learn more in-depth information about retrospectives:
 * [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - *Esther Derby, Diana Larsen.* A book on using retrospectives to improve teams.
 * [Project Retrospectives: A Handbook for Team Reviews](http://www.dorsethouse.com/books/pr.html) - *Norman L. Kerth.* One of the earliest books on running retrospectives.
 * [Agile Retrospectives](https://leanpub.com/b/agileretrospectives) - *Various authors.* A bundle of 6 ebooks on retrospectives from Leanpub including Getting Value out of Agile Retrospectives, Fun Retrospectives, Fifty Quick Ideas To Improve Your Retrospectives, The Retrospective Handbook, Agile Retrospective Kickstarter and Retrospectives for Organizational Change.
+* [The Retrospective Handbook](https://leanpub.com/the-retrospective-handbook) - *Patrick Kua*. Great tips/advice for facilitating retros.
 * [Gamestorming: A Playbook for Innovators, Rulebreakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) - *Dave Gray*. Learn how to create an engaging and creative environment with gamestorming.
 * [Building a Better Business Using the Lego Serious Play Method](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118832450.html) - *Per Kristiansen, Robert Rasmussen*. Use Lego Serious Play to improve meetings.
-
-* [The Retrospective Handbook](https://leanpub.com/the-retrospective-handbook) - *Patrick Kua*. Great tips/advice for facilitating retros.
 
 ## Articles About Retrospectives
 
