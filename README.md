@@ -58,6 +58,8 @@ For when you want to learn more in-depth information about retrospectives:
 * [Gamestorming: A Playbook for Innovators, Rulebreakers](https://www.amazon.com/Gamestorming-Playbook-Innovators-Rulebreakers-Changemakers/dp/0596804172) - *Dave Gray*. Learn how to create an engaging and creative environment with gamestorming.
 * [Building a Better Business Using the Lego Serious Play Method](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118832450.html) - *Per Kristiansen, Robert Rasmussen*. Use Lego Serious Play to improve meetings.
 
+* [The Retrospective Handbook](https://leanpub.com/the-retrospective-handbook) - *Patrick Kua*. Great tips/advice for facilitating retros.
+
 ## Articles About Retrospectives
 
 For when you want information on specific issues or tips for improving your retrospectives:
