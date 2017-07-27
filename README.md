@@ -1,6 +1,6 @@
 # Awesome Retrospectives [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources for facilitating and learning about retrospectives.
+A retrospective is the act of a team looking back on past events and behaviours to learn from these and capture actionable items that help them improve their work, team and working environment.
 
 ## Contents
 
