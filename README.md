@@ -49,6 +49,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Confluence](https://confluence.atlassian.com/doc/retrospective-blueprint-427623496.html) - Commercial content collaboration software with retrospective templates.
 * [Kudobox](http://kudobox.co) - Share Kudo cards on Twitter.
 * [Postfacto](http://postfacto.io) - Free, open-source and self-hosted retro tool aimed at helping remote teams.
+* [RetroTool](https://retrotool.io) - Free, simple, fun and flexible tool for remote retrospectives used by thousands of people around the world.
 
 ## Books About Retrospectives
 
