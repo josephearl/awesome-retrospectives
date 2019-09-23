@@ -23,11 +23,11 @@ For when you need ideas for retrospective activities:
 
 * [Retromat](https://plans-for-retrospectives.com/en/) - A large collection of activities and a planning tool which can be used to share your plan with others.
 * [Fun Retrospectives](http://www.funretrospectives.com) - A large collection of activities and ideas for retrospectives.
-* [loveagile.com](http://loveagile.com) - A small collection of retrospective activities.
+* [loveagile.com](https://web.archive.org/web/20170626112519/http://loveagile.com/) - A small collection of retrospective activities.
 * [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) - A collection of retrospective activities and their use cases.
 * [Hyper Island Toolbox](http://toolbox.hyperisland.com) - A collection of energizers and activities for unlocking insight and building a strong team.
 * [Lego Retrospective](http://www.growingagile.co.za/2017/03/guest-post-lego-retrospective/) - An activity using Lego for when you have issues with some team members dominating meetings or others not leaning in.
-* [Safety Check](http://www.akashb.com/blog/2012/05/28/agile-retrospectives-the-safety-check/) - An activity for measuring how comfortable everyone feels sharing their views, useful for forming teams or when new team members join.
+* [Safety Check](https://web.archive.org/web/20161229153327/http://www.akashb.com/blog/2012/05/28/agile-retrospectives-the-safety-check/) - An activity for measuring how comfortable everyone feels sharing their views, useful for forming teams or when new team members join.
 * [Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - An activity for visualizing what to improve that can be used across teams from Spotify.
 * [The Happiness Door](https://www.happymelly.com/the-happiness-door-bring-your-own-bottle/) - An activity for measuring happiness.
 * [Kudo Cards](https://management30.com/practice/kudo-box/) - A practice for continuously sharing feedback and building intrinsic motivation.
