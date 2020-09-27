@@ -14,6 +14,7 @@ A retrospective is the act of a team looking back on past events and behaviours 
 
 For when you want to learn more about the basics of retrospectives:
 
+* [Ultimate Guide to Agile Retrospectives](https://academy.retrium.com/ultimate-guide-to-agile-retrospectives/) - A deep dive into effective retrospectives.
 * [What is a Retrospective?](http://finding-marbles.com/retr-o-mat/what-is-a-retrospective/) - An introduction to retrospectives.
 * [The Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html) - The key to running successful retrospectives.
 
