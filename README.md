@@ -40,7 +40,7 @@ For when you need to run a retrospective with a distributed team over the intern
 
 * [Parabol](https://www.parabol.co/) - Free, open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
 * [TeamRetro](https://www.teamretro.com/) - Commerce distributed retrospective tools with multiple activities, action tracking and automated idea grouping.
-* [Fun Retro](http://funretro.github.io/distributed/) - Distributed retrospective board with voting.
+* [EasyRetro](https://easyretro.io) - Distributed retrospective board with voting.
 * [Ideaboardz](http://www.ideaboardz.com) - Distributed retrospective board with voting and export functionality.
 * [Retrobot](http://www.retrobotapp.com) - Distributed retrospective board with a number of retrospective templates. 
 * [ScatterSpoke](https://www.scatterspoke.com) - Distributed retrospective board with export functionality.
