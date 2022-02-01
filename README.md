@@ -38,6 +38,7 @@ For when you need ideas for retrospective activities:
 
 For when you need to run a retrospective with a distributed team over the internet:
 
+* [TeleRetro](https://www.teleretro.com) - Distributed retrospective tool with ice-breaker music, gifs and emojis.
 * [Parabol](https://www.parabol.co/) - Free, open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
 * [TeamRetro](https://www.teamretro.com/) - Commerce distributed retrospective tools with multiple activities, action tracking and automated idea grouping.
 * [EasyRetro](https://easyretro.io) - Distributed retrospective board with voting.
@@ -59,6 +60,7 @@ For when you need to run a retrospective with a distributed team over the intern
 
 For when you want to learn more in-depth information about retrospectives:
 
+* [Retrospectives Antipatterns](https://www.amazon.co.uk/Retrospectives-Antipatterns-Aino-Corry/dp/013682336X) - *Aino Corry.* Learn how to improve retrospectives by avoiding common pitfalls.
 * [Agile Retrospectives: Making Good Teams Great](https://pragprog.com/book/dlret/agile-retrospectives) - *Esther Derby, Diana Larsen.* A book on using retrospectives to improve teams.
 * [Project Retrospectives: A Handbook for Team Reviews](https://www.dorsethouse.com/books/pr.html) - *Norman L. Kerth.* One of the earliest books on running retrospectives.
 * [The Retrospective Handbook](https://leanpub.com/the-retrospective-handbook) - *Patrick Kua*. Great tips and advice for facilitating retrospectives.
