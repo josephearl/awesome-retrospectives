@@ -36,25 +36,25 @@ For when you need ideas for retrospective activities:
 
 ## Distributed Retrospective Tools
 
-For when you need to run a retrospective with a distributed team over the internet:
+For when you need to run a retrospective with a distributed team over the internet (🆓 = totally free, 💰 = paid plan may be required to access some features):
 
-* [TeleRetro](https://www.teleretro.com) - Distributed retrospective tool with ice-breaker music, gifs and emojis.
-* [Parabol](https://www.parabol.co/) - Free, open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
-* [TeamRetro](https://www.teamretro.com/) - Commerce distributed retrospective tools with multiple activities, action tracking and automated idea grouping.
-* [EasyRetro](https://easyretro.io) - Distributed retrospective board with voting.
-* [Ideaboardz](https://ideaboardz.com) - Distributed retrospective board with voting and export functionality.
-* [Retrobot](http://www.retrobotapp.com) - Distributed retrospective board with a number of retrospective templates. 
-* [ScatterSpoke](https://www.scatterspoke.com) - Distributed retrospective board with export functionality.
-* [Trello](https://trello.com) - Boards, lists, and cards.
+* [Confluence](https://confluence.atlassian.com/doc/retrospective-blueprint-427623496.html) 💰 - Content collaboration software with retrospective templates.
+* [EasyRetro](https://easyretro.io) 💰 - Distributed retrospective board with voting.
 * [Google Docs](https://docs.google.com/) - Collaborative document editing.
 * [Google Drawings](https://drawings.google.com/) - Collaborative drawing.
-* [Retrium](https://www.retrium.com) - Commercial distributed retrospective tools with a number of retrospective activities.
-* [Confluence](https://confluence.atlassian.com/doc/retrospective-blueprint-427623496.html) - Commercial content collaboration software with retrospective templates.
-* [Kudobox](http://kudobox.co) - Share Kudo cards on Twitter.
-* [Postfacto](https://pivotal.github.io/postfacto/) - Free, open-source and self-hosted retro tool aimed at helping remote teams.
-* [RetroTool](https://retrotool.io) - Free, simple, fun and flexible tool for remote retrospectives used by thousands of people around the world.
-* [Sprint Boards](https://sprintboards.io) - Modern retrospective tool for Agile developers with support for third party services including Trello and Jira.
-* [Rapport](https://rapport.Leanloop.co.uk) - Free retro tool for distributed or remote teams.
+* [Ideaboardz](https://ideaboardz.com) 🆓 - Distributed retrospective board with voting and export functionality.
+* [Kudobox](http://kudobox.co) 🆓 - Share Kudo cards on Twitter.
+* [Parabol](https://www.parabol.co/) 💰 - Open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
+* [Postfacto](https://pivotal.github.io/postfacto/) 🆓 - Open-source and self-hosted retro tool aimed at helping remote teams.
+* [Rapport](https://rapport.leanloop.co.uk) 🆓 - Retro tool for distributed or remote teams.
+* [Retrium](https://www.retrium.com) 💰 - Distributed retrospective tools with a number of retrospective activities.
+* [Retrobot](http://www.retrobotapp.com) 💰 - Distributed retrospective board with a number of retrospective templates.
+* [RetroTool](https://retrotool.io) 💰 - Simple, fun and flexible tool for remote retrospectives used by thousands of people around the world.
+* [ScatterSpoke](https://www.scatterspoke.com) 💰 - Distributed retrospective board with export functionality.
+* [Sprint Boards](https://sprintboards.io) 💰 - Modern retrospective tool for Agile developers with support for third party services including Trello and Jira.
+* [TeamRetro](https://www.teamretro.com/) 💰 - Distributed retrospective tools with multiple activities, action tracking and automated idea grouping.
+* [TeleRetro](https://www.teleretro.com) 💰 - Distributed retrospective tool with ice-breaker music, gifs and emojis.
+* [Trello](https://trello.com) 💰 - Boards, lists, and cards.
 
 ## Books About Retrospectives
 
