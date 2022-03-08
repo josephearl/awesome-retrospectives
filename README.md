@@ -42,6 +42,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [EasyRetro](https://easyretro.io) 💰 - Distributed retrospective board with voting.
 * [Google Docs](https://docs.google.com/) - Collaborative document editing.
 * [Google Drawings](https://drawings.google.com/) - Collaborative drawing.
+* [GoRetro](https://www.goretro.ai/) - Run team retrospectives easily, quickly, and absolutely free.
 * [Ideaboardz](https://ideaboardz.com) 🆓 - Distributed retrospective board with voting and export functionality.
 * [Kudobox](http://kudobox.co) 🆓 - Share Kudo cards on Twitter.
 * [Parabol](https://www.parabol.co/) 💰 - Open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
