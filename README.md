@@ -56,6 +56,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [TeamRetro](https://www.teamretro.com/) 💰 - Distributed retrospective tools with multiple activities, action tracking and automated idea grouping.
 * [TeleRetro](https://www.teleretro.com) 💰 - Distributed retrospective tool with ice-breaker music, gifs and emojis.
 * [Trello](https://trello.com) 💰 - Boards, lists, and cards.
+* [Scrumlr.io](https://scrumlr.io) 🆓 - An open-source and well-designed web app for collaborative online retrospectives, featuring timers, voting capabilities, and the option to use the entire app anonymously.
 
 ## Books About Retrospectives
 
