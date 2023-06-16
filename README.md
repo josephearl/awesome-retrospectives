@@ -52,6 +52,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Retrobot](http://www.retrobotapp.com) 💰 - Distributed retrospective board with a number of retrospective templates.
 * [RetroTool](https://retrotool.io) 💰 - Simple, fun and flexible tool for remote retrospectives used by thousands of people around the world.
 * [ScatterSpoke](https://www.scatterspoke.com) 💰 - Distributed retrospective board with export functionality.
+* [Scrumlr.io](https://scrumlr.io) 🆓 - An open-source and well-designed web app for collaborative online retrospectives, featuring timers, voting capabilities, and the option to use the entire app anonymously.
 * [Sprint Boards](https://sprintboards.io) 💰 - Modern retrospective tool for Agile developers with support for third party services including Trello and Jira.
 * [TeamRetro](https://www.teamretro.com/) 💰 - Distributed retrospective tools with multiple activities, action tracking and automated idea grouping.
 * [TeleRetro](https://www.teleretro.com) 💰 - Distributed retrospective tool with ice-breaker music, gifs and emojis.
