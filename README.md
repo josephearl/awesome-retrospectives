@@ -49,7 +49,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Postfacto](https://pivotal.github.io/postfacto/) 🆓 - Open-source and self-hosted retro tool aimed at helping remote teams.
 * [Rapport](https://rapport.leanloop.co.uk) 🆓 - Retro tool for distributed or remote teams.
 * [Retrium](https://www.retrium.com) 💰 - Distributed retrospective tools with a number of retrospective activities.
-* [Retro Cadence](https://retrocadence.com) - 💰 PDistributed retrospective tools with a number of retrospective activities.
+* [Retro Cadence](https://retrocadence.com) - 💰 Distributed retrospective tools with a number of retrospective activities.
 * [Retrobot](http://www.retrobotapp.com) 💰 - Distributed retrospective board with a number of retrospective templates.
 * [RetroTool](https://retrotool.io) 💰 - Simple, fun and flexible tool for remote retrospectives used by thousands of people around the world.
 * [ScatterSpoke](https://www.scatterspoke.com) 💰 - Distributed retrospective board with export functionality.
