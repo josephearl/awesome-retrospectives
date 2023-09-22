@@ -17,6 +17,7 @@ For when you want to learn more about the basics of retrospectives:
 * [Ultimate Guide to Agile Retrospectives](https://www.retrium.com/ultimate-guide-to-agile-retrospectives/intro) - A deep dive into effective retrospectives.
 * [What is a Retrospective?](https://retromat.org/blog/what-is-a-retrospective/) - An introduction to retrospectives.
 * [The Retrospective Prime Directive](https://retrospectivewiki.org/index.php?title=The_Prime_Directive) - The key to running successful retrospectives.
+* [How to Run an Online Sprint Retrospective](https://www.parabol.co/resources/how-to-run-an-online-sprint-retrospective/) - A step-by-step guide to running remote retrospectives.
 
 ## Retrospective Plans & Activities
 
@@ -33,6 +34,7 @@ For when you need ideas for retrospective activities:
 * [The Happiness Door](https://management30.com/blog/the-happiness-door-bring-your-own-bottle/) - An activity for measuring happiness.
 * [Kudo Cards](https://management30.com/practice/kudo-box/) - A practice for continuously sharing feedback and building intrinsic motivation.
 * [Gamestorming](https://gamestorming.com) - A collection of games and tools.
+* [Retrospective Questions](https://www.parabol.co/resources/retrospective-questions/) - A collection of facilitator questions to use in retrospectives
 
 ## Distributed Retrospective Tools
 
