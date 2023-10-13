@@ -44,7 +44,8 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Google Drawings](https://drawings.google.com/) - Collaborative drawing.
 * [GoRetro](https://www.goretro.ai/) - Run team retrospectives easily, quickly, and absolutely free.
 * [Ideaboardz](https://ideaboardz.com) 🆓 - Distributed retrospective board with voting and export functionality.
-* [Kudobox](http://kudobox.co) 🆓 - Share Kudo cards on Twitter.
+* [Kudobox](https://kudobox.co) 🆓 - Share Kudo cards on Twitter.
+* [Metro Retro](https://metroretro.io/) 💰 - Distributed retrospective tools with a number of retrospective activities.
 * [Parabol](https://www.parabol.co/) 💰 - Open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
 * [Postfacto](https://pivotal.github.io/postfacto/) 🆓 - Open-source and self-hosted retro tool aimed at helping remote teams.
 * [Rapport](https://rapport.leanloop.co.uk) 🆓 - Retro tool for distributed or remote teams.
