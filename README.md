@@ -50,6 +50,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Metro Retro](https://metroretro.io/) 💰 - Distributed retrospective tools with a number of retrospective activities.
 * [Parabol](https://www.parabol.co/) 💰 - Open-source retrospective tool with integrations to GitHub, Jira, and Slack with commercial options available.
 * [Postfacto](https://pivotal.github.io/postfacto/) 🆓 - Open-source and self-hosted retro tool aimed at helping remote teams.
+* [QuickRetro](https://quickretro.app/) 🆓 - Free, open-source, self-hosted, feature-packed app for conducting sprint retro meeting online with mobile friendly UI. 
 * [Rapport](https://rapport.leanloop.co.uk) 🆓 - Retro tool for distributed or remote teams.
 * [Retrium](https://www.retrium.com) 💰 - Distributed retrospective tools with a number of retrospective activities.
 * [Retro Cadence](https://retrocadence.com) - 💰 Distributed retrospective tools with a number of retrospective activities.
