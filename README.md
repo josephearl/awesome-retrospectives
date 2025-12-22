@@ -43,6 +43,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Confluence](https://confluence.atlassian.com/doc/retrospective-blueprint-427623496.html) 💰 - Content collaboration software with retrospective templates.
 * [EasyRetro](https://easyretro.io) 💰 - Distributed retrospective board with voting.
 * [Echometer](https://echometerapp.com) 💰 - Beginner-friendly, psychology-based retrospective & team health check tool.
+* [Evetro](https://evetro.com) 💰 - Digital and mobile friendly retrospective tool, offering a great set of tools that can be used within a retro; timers, voting, anonymousity, actions and much more!
 * [Google Docs](https://docs.google.com/) - Collaborative document editing.
 * [Google Drawings](https://drawings.google.com/) - Collaborative drawing.
 * [GoRetro](https://www.goretro.ai/) - Run team retrospectives easily, quickly, and absolutely free.
