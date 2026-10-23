@@ -48,6 +48,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Google Docs](https://docs.google.com/) - Collaborative document editing.
 * [Google Drawings](https://drawings.google.com/) - Collaborative drawing.
 * [GoRetro](https://www.goretro.ai/) - Run team retrospectives easily, quickly, and absolutely free.
+* [Hybrid Pointing Rehearsal Record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) 🆓 - Blank two-page worksheet for checking shared-screen, room and recorded pointing cues before a hybrid retrospective with slides (CC BY 4.0; AI-assisted, published by Light Tracer).
 * [Ideaboardz](https://ideaboardz.com) 🆓 - Distributed retrospective board with voting and export functionality.
 * [Kudobox](https://kudobox.co) 🆓 - Share Kudo cards on Twitter.
 * [Metro Retro](https://metroretro.io/) 💰 - Distributed retrospective tools with a number of retrospective activities.
