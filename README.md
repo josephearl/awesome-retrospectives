@@ -58,6 +58,7 @@ For when you need to run a retrospective with a distributed team over the intern
 * [Retrium](https://www.retrium.com) 💰 - Distributed retrospective tools with a number of retrospective activities.
 * [Retro Cadence](https://retrocadence.com) - 💰 Distributed retrospective tools with a number of retrospective activities.
 * [Retrobot](http://www.retrobotapp.com) 💰 - Distributed retrospective board with a number of retrospective templates.
+* [RetroLift](https://fun-retro.com) 🆓 - Themed retro boards with facilitation prompts, anonymous cards, voting, action items and a kudos wall, plus quick team games for warm-ups; guests join from a link without an account, in English or Chinese.
 * [Retroloop](https://retroloop.io) 💰 - Easy-to-use, open-source tool for facilitating agile retrospectives.
 * [RetroTool](https://retrotool.io) 💰 - Simple, fun and flexible tool for remote retrospectives used by thousands of people around the world.
 * [ScatterSpoke](https://www.scatterspoke.com) 💰 - Distributed retrospective board with export functionality.
